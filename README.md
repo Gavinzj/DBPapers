@@ -36,7 +36,12 @@ Contributed by Song Bian (The Chinese University of Hong Kong)
    - [Query Optimization](#Query-Optimization)
    - [Skyline Query and Regret](#Skyline-Query-and-Regret)
 
-5. [New Hardware](#New-Hardware)
+5. [Recommendation System](#Recommendation-System)
+
+   - [Group Recommendation](#Group-Recommendation)
+   - [Personalized Recommendation](#Personalized-Recommendation)
+
+6. [New Hardware](#New-Hardware)
 
    - [NVM](#NVM)
 
@@ -44,7 +49,7 @@ Contributed by Song Bian (The Chinese University of Hong Kong)
 
    - [SSD](#SSD)
 
-6. [Stream-and-Sketch](#Stream-and-Sketch)
+7. [Stream-and-Sketch](#Stream-and-Sketch)
 
 
 
@@ -146,6 +151,11 @@ Contributed by Song Bian (The Chinese University of Hong Kong)
 1. **RRR: Rank-Regret Representative.** SIGMOD 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3299869.3300080?download=true)
 2. **Efficient k-Regret Query Algorithm with Restriction-free Bound for any Dimensionality.** SIGMOD 2018. [paper](http://www.cse.ust.hk/~raywong/paper/sigmod18-regret.pdf)
 3. **On Obtaining Stable Rankings.** PVLDB 2018. [paper](http://www.vldb.org/pvldb/vol12/p237-asudeh.pdf)
+
+### Recommendation System
+#### Group Recommendation
+
+1. **Recommending Packages to Groups.** ICDM 2016. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7837869)
 
 ### New Hardware
 
